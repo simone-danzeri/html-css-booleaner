@@ -26,3 +26,23 @@ header{
 .giallo{
     background-color: yellow;
 }
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    height: 20px;
+    text-align: left;
+}
+
+tbody{
+    height: 250px;
+    text-align: left;
+}
+
+.dispari{
+    background-color: #B1E5F2;
+}
+
+.col{
+    width: 15%;
+}
