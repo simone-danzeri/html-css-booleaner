@@ -9,3 +9,15 @@ header{
     width: 350px;
     height: 300px;
 }
+
+.grigio{
+    color: #808080;
+}
+
+#azzurro{
+    color: #20A9E5;
+}
+
+.tim-description{
+    font-size: 12px;
+}
