@@ -50,7 +50,14 @@ tbody{
     width: 15%;
 }
 
+.testo{
+    position: absolute;
+    top: 10px;
+    left: 20px;   
+}
+
 .fine1{
+    position: relative;
     background-image: url(./img/monitor.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
@@ -60,9 +67,11 @@ tbody{
 }
 
 .fine2{
+    position: relative;
     background-image: url(./img/graph.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
     width: 250px;
     height: 150px; 
 }
+
