@@ -2,6 +2,7 @@ header{
     background-color:#4EA0FF ;
     background-image: url(./img/pattern.png);
     background-repeat: repeat;
+    background-size: contain;
     height: 200px;
 }
 
