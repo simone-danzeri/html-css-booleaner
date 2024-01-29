@@ -5,6 +5,9 @@ header{
     background-size: contain;
     height: 200px;
 }
+h1{
+    font-size: 40px;
+}
 
 #logo{  
     width: 350px;
