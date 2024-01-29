@@ -49,3 +49,20 @@ tbody{
 .col{
     width: 15%;
 }
+
+.fine1{
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    width: 250px;
+    height: 150px; 
+    
+}
+
+.fine2{
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    width: 250px;
+    height: 150px; 
+}
