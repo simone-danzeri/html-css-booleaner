@@ -2,16 +2,15 @@ header{
     background-color:#4EA0FF ;
     background-image: url(./img/pattern.png);
     background-repeat: repeat;
-    background-size: contain;
-    height: 200px;
+    background-size: 350px;
+    padding-top: 60px;
 }
 h1{
     font-size: 40px;
 }
 
-#logo{  
-    width: 350px;
-    height: 300px;
+#logo{
+    height: 70px;
 }
 
 .grigio{
